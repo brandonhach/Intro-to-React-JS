@@ -1,6 +1,6 @@
 # Intro-to-React-JS
 ```
-Chapter 1: Start Here
+Chapter 1: Introduction
 Chapter 2: App & JSX
 Chapter 3: Functional Components
 Chapter 4: Applying CSS Styles
