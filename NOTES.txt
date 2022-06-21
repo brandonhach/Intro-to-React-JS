@@ -32,7 +32,11 @@ Lesson05 Click Events {
 onClick, onDoubleClick
 }
 Lesson06 useState Hook {
-//FILES EDITED:
+//FILES EDITED: Content.js | App.js
 //FILES DELETED:
+current value of the state comes into the function and we od not alter tht and even though
+you might use the set ocunt to set the state, when you log into console and use the value, it will not change
+because it is brought into the function.
+use const to avoid changing the state directly. 
 
 }
