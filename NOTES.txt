@@ -1,0 +1,15 @@
+Lesson01 {
+npx create-react-app 'folder name` /-/ create a new folder/project
+cd `folder name` /-/ go to directory of the folder
+code .  /-/ opens folder/project in new vscode instance 
+npm start /-/ create live server of project
+CTRL + C /-/ end live server
+}
+Lesson02 {
+    {} = within html element to turn arrays, or other variable type to String,
+    boolean and objects cannot be used, also uses variable name.
+
+}
+Lesson03 {
+    
+}
