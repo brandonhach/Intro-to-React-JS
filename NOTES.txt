@@ -1,15 +1,38 @@
-Lesson01 {
-npx create-react-app 'folder name` /-/ create a new folder/project
-cd `folder name` /-/ go to directory of the folder
-code .  /-/ opens folder/project in new vscode instance 
-npm start /-/ create live server of project
-CTRL + C /-/ end live server
+Lesson01 Introduction {
+npx create-react-app 'folder name` /-/ create a new folder/project.
+cd `folder name` /-/ go to directory of the folder.
+code .  /-/ opens folder/project in new vscode instance .
+npm start /-/ create live server of project.
+CTRL + C /-/ end live server.
 }
-Lesson02 {
+Lesson02 App & JSX {
     {} = within html element to turn arrays, or other variable type to String,
     boolean and objects cannot be used, also uses variable name.
 
 }
-Lesson03 {
-    
+Lesson03 Functional Components {
+//FILES EDITED: App.js | index.js 
+//FILES CREATED: Header.js | Footer.js | Content.js
+    CTRL + ALT + R /-/ snippets
+        |rafce : create a functional component
+    Best to stick with submantic HTML.
+    After creating new .js, import it to App.js because it is parent class.
+    Treated as new HTML Element. EX. Header instead of defaulted header element.
+}
+Lesson04 Applying CSS Styles {
+//FILES EDITED: Header.js | index.js | index.CSS
+//FILES DELETED: app.CSS
+    styled-components.com /-/ a popular package 
+another way is to insert style={{}} into component element
+DRY : Don't repeat yourself.
+Every stylesheet needs an import statement to the functional component that it applies to.
+}
+Lesson05 Click Events {
+//FILES EDITED: Content.js
+onClick, onDoubleClick
+}
+Lesson06 useState Hook {
+//FILES EDITED:
+//FILES DELETED:
+
 }
